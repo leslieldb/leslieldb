@@ -13,6 +13,7 @@
 
 - 🎓 My education end goal is a **Bachelor's Degree of Computer Science at Dalhousie**
 
+<br>
 
 - 📫 Contact me at **phldb2@gmail.com**
 
