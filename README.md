@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leslieldb" alt="leslieldb" /></a> </p>
 
-- 💼 I currently work as **a Customer Service clerk at Loblaws**
+- 💼 I currently work as a **Customer Service clerk at Loblaws**
 
 - 🤝 I’m looking for help with **Internships and Job Placements**
 
 - 🌱 I’m currently studying **IT Programming**
 
-- 🎓 My education end goal is **a Bachelor's Degree of Computer Science at Dalhousie**
+- 🎓 My education end goal is a **Bachelor's Degree of Computer Science at Dalhousie**
 
 
 - 📫 Contact me at **phldb2@gmail.com**
